@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.19
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6966,7 +6966,7 @@ layout: default
 |**2026-01-08**|**QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer**|Daniele Lizzio Bosco et.al.|[2601.05250](http://arxiv.org/abs/2601.05250)|null|
 |**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](http://arxiv.org/abs/2601.04860)|null|
 |**2026-01-11**|**Radiant Foam Rendering on a Graph Processor**|Zulkhuu Tuya et.al.|[2601.04382](http://arxiv.org/abs/2601.04382)|null|
-|**2026-01-07**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|null|
+|**2026-01-15**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|null|
 |**2026-01-04**|**EdgeNeRF: Edge-Guided Regularization for Neural Radiance Fields from Sparse Views**|Weiqi Yu et.al.|[2601.01431](http://arxiv.org/abs/2601.01431)|null|
 |**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/abs/2601.00207)|null|
 |**2025-12-20**|**Neural Brain Fields: A NeRF-Inspired Approach for Generating Nonexistent EEG Electrodes**|Shahar Ain Kedem et.al.|[2601.00012](http://arxiv.org/abs/2601.00012)|null|
@@ -8769,6 +8769,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-17**|**Active Semantic Mapping of Horticultural Environments Using Gaussian Splatting**|Jose Cuaran et.al.|[2601.12122](http://arxiv.org/abs/2601.12122)|null|
+|**2026-01-16**|**studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting**|Yimu Pan et.al.|[2601.11772](http://arxiv.org/abs/2601.11772)|null|
+|**2026-01-16**|**Spectroscopic confirmation of a large and luminous galaxy with weak emission lines at $\mathbf{z = 13.53}$**|Callum T. Donnan et.al.|[2601.11515](http://arxiv.org/abs/2601.11515)|null|
+|**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
 |**2026-01-15**|**RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation**|Peng Chen et.al.|[2601.10606](http://arxiv.org/abs/2601.10606)|null|
 |**2026-01-15**|**Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting**|Zhendong Wang et.al.|[2601.10075](http://arxiv.org/abs/2601.10075)|null|
 |**2026-01-14**|**Variable Basis Mapping for Real-Time Volumetric Visualization**|Qibiao Li et.al.|[2601.09417](http://arxiv.org/abs/2601.09417)|null|
@@ -8776,7 +8780,7 @@ layout: default
 |**2026-01-14**|**GaussianFluent: Gaussian Simulation for Dynamic Scenes with Mixed Materials**|Bei Huang et.al.|[2601.09265](http://arxiv.org/abs/2601.09265)|null|
 |**2026-01-14**|**A $^2$ TG: Adaptive Anisotropic Textured Gaussians for Efficient 3D Scene Representation**|Sheng-Chi Hsu et.al.|[2601.09243](http://arxiv.org/abs/2601.09243)|null|
 |**2026-01-14**|**Gap solitons of the Wannier and Bloch types in spin-orbit-coupled Bose-Einstein condensates with a moiré lattice**|Jun-Tao He et.al.|[2601.09242](http://arxiv.org/abs/2601.09242)|null|
-|**2026-01-13**|**Gyral-Sulcal-Net: An Integrated Network Representation of Brain Folding Patterns**|Chao Cao et.al.|[2601.08818](http://arxiv.org/abs/2601.08818)|null|
+|**2026-01-17**|**Gyral-Sulcal-Net: An Integrated Network Representation of Brain Folding Patterns**|Chao Cao et.al.|[2601.08818](http://arxiv.org/abs/2601.08818)|null|
 |**2026-01-13**|**Strong coupling expansion of $1\over 2$ BPS Wilson loop in SYM theory and 2-loop Green-Schwarz string in AdS$_5 \times $S$^5$**|Matteo Beccaria et.al.|[2601.08809](http://arxiv.org/abs/2601.08809)|null|
 |**2026-01-12**|**3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing**|Jiahua Dong et.al.|[2601.07963](http://arxiv.org/abs/2601.07963)|null|
 |**2026-01-12**|**Rigorous Anderson-type lower bounds on the ground-state energy of the pyrochlore Heisenberg antiferromagnet**|Péter Kránitz et.al.|[2601.07800](http://arxiv.org/abs/2601.07800)|null|
@@ -8794,14 +8798,14 @@ layout: default
 |**2026-01-09**|**GaussianSwap: Animatable Video Face Swapping with 3D Gaussian Splatting**|Xuan Cheng et.al.|[2601.05511](http://arxiv.org/abs/2601.05511)|null|
 |**2026-01-08**|**MOSAIC-GS: Monocular Scene Reconstruction via Advanced Initialization for Complex Dynamic Environments**|Svitlana Morkva et.al.|[2601.05368](http://arxiv.org/abs/2601.05368)|null|
 |**2026-01-08**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|null|
-|**2026-01-08**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou et.al.|[2601.04754](http://arxiv.org/abs/2601.04754)|null|
+|**2026-01-18**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou et.al.|[2601.04754](http://arxiv.org/abs/2601.04754)|null|
 |**2026-01-07**|**SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting**|Diego Revilla et.al.|[2601.04348](http://arxiv.org/abs/2601.04348)|null|
 |**2026-01-07**|**IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting**|Wei Long et.al.|[2601.03824](http://arxiv.org/abs/2601.03824)|null|
 |**2026-01-07**|**G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Semantic Segmentation**|Hojun Song et.al.|[2601.03510](http://arxiv.org/abs/2601.03510)|null|
 |**2026-01-06**|**RelightAnyone: A Generalized Relightable 3D Gaussian Head Model**|Yingyan Xu et.al.|[2601.03357](http://arxiv.org/abs/2601.03357)|null|
 |**2026-01-06**|**CaricatureGS: Exaggerating 3D Gaussian Splatting Faces With Gaussian Curvature**|Eldad Matmon et.al.|[2601.03319](http://arxiv.org/abs/2601.03319)|null|
 |**2026-01-06**|**A High-Fidelity Digital Twin for Robotic Manipulation Based on 3D Gaussian Splatting**|Ziyang Sun et.al.|[2601.03200](http://arxiv.org/abs/2601.03200)|null|
-|**2026-01-06**|**SA-ResGS: Self-Augmented Residual 3D Gaussian Splatting for Next Best View Selection**|Kim Jun-Seong et.al.|[2601.03024](http://arxiv.org/abs/2601.03024)|null|
+|**2026-01-18**|**SA-ResGS: Self-Augmented Residual 3D Gaussian Splatting for Next Best View Selection**|Kim Jun-Seong et.al.|[2601.03024](http://arxiv.org/abs/2601.03024)|null|
 |**2026-01-06**|**What Is the Minimum Number of Parameters Required to Represent Solutions of the Grad-Shafranov Equation?**|Huasheng Xie et.al.|[2601.02942](http://arxiv.org/abs/2601.02942)|null|
 |**2026-01-06**|**CAMO: Category-Agnostic 3D Motion Transfer from Monocular 2D Videos**|Taeyeon Kim et.al.|[2601.02716](http://arxiv.org/abs/2601.02716)|null|
 |**2026-01-05**|**HeadLighter: Disentangling Illumination in Generative 3D Gaussian Heads via Lightstage Captures**|Yating Wang et.al.|[2601.02103](http://arxiv.org/abs/2601.02103)|null|
@@ -8813,7 +8817,7 @@ layout: default
 |**2026-01-04**|**ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking**|Xiaobao Wei et.al.|[2601.01386](http://arxiv.org/abs/2601.01386)|null|
 |**2026-01-04**|**ShadowGS: Shadow-Aware 3D Gaussian Splatting for Satellite Imagery**|Feng Luo et.al.|[2601.00939](http://arxiv.org/abs/2601.00939)|null|
 |**2026-01-01**|**Clean-GS: Semantic Mask-Guided Pruning for 3D Gaussian Splatting**|Subhankar Mishra et.al.|[2601.00913](http://arxiv.org/abs/2601.00913)|null|
-|**2026-01-13**|**RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization**|Wei-Tse Cheng et.al.|[2601.00705](http://arxiv.org/abs/2601.00705)|null|
+|**2026-01-15**|**RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization**|Wei-Tse Cheng et.al.|[2601.00705](http://arxiv.org/abs/2601.00705)|null|
 |**2026-01-01**|**Time--to--Digital Converter (TDC)--Based Resonant Compute--in--Memory for INT8 CNNs with Layer--Optimized SRAM Mapping**|Dhandeep Challagundla et.al.|[2601.00434](http://arxiv.org/abs/2601.00434)|null|
 |**2026-01-01**|**SV-GS: Sparse View 4D Reconstruction with Skeleton-Driven Gaussian Splatting**|Jun-Jee Chao et.al.|[2601.00285](http://arxiv.org/abs/2601.00285)|null|
 |**2025-12-31**|**PhysTalk: Language-driven Real-time Physics in 3D Gaussian Scenes**|Luca Collorone et.al.|[2512.24986](http://arxiv.org/abs/2512.24986)|null|

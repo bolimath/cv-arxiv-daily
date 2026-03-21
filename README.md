@@ -1,4 +1,4 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1277,7 +1277,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## SFM
 
@@ -2241,7 +2241,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -5091,7 +5091,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -5625,7 +5625,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Image Matching
 
@@ -6976,12 +6976,16 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction**|Devjyoti Chakraborty et.al.|[2603.18306](http://arxiv.org/abs/2603.18306)|null|
+|**2026-03-18**|**Neural Radiance Maps for Extraterrestrial Navigation and Path Planning**|Adam Dai et.al.|[2603.17236](http://arxiv.org/abs/2603.17236)|null|
+|**2025-12-31**|**SAC-NeRF: Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic Reinforcement Learning**|Chenyu Ge et.al.|[2603.15622](http://arxiv.org/abs/2603.15622)|null|
+|**2026-03-16**|**E2EGS: Event-to-Edge Gaussian Splatting for Pose-Free 3D Reconstruction**|Yunsoo Kim et.al.|[2603.14684](http://arxiv.org/abs/2603.14684)|null|
 |**2026-03-13**|**Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**|Yinuo Jiang et.al.|[2603.12903](http://arxiv.org/abs/2603.12903)|null|
 |**2026-03-13**|**Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation**|Shifeng Chen et.al.|[2603.12766](http://arxiv.org/abs/2603.12766)|null|
 |**2026-03-13**|**Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs**|Hiran Sarkar et.al.|[2603.12078](http://arxiv.org/abs/2603.12078)|null|
@@ -7012,7 +7016,7 @@
 |**2026-02-18**|**Subtractive Modulative Network with Learnable Periodic Activations**|Tiou Wang et.al.|[2602.16337](http://arxiv.org/abs/2602.16337)|null|
 |**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|
 |**2026-02-14**|**Nighttime Autonomous Driving Scene Reconstruction with Physically-Based Gaussian Splatting**|Tae-Kyeong Kim et.al.|[2602.13549](http://arxiv.org/abs/2602.13549)|null|
-|**2026-02-08**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|null|
+|**2026-03-17**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|null|
 |**2026-02-08**|**Deepfake Synthesis vs. Detection: An Uneven Contest**|Md. Tarek Hasan et.al.|[2602.07986](http://arxiv.org/abs/2602.07986)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](http://arxiv.org/abs/2602.05822)|null|
 |**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](http://arxiv.org/abs/2602.05423)|null|
@@ -7050,6 +7054,7 @@
 |**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](http://arxiv.org/abs/2512.14406)|null|
 |**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|null|
 |**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai et.al.|[2512.14095](http://arxiv.org/abs/2512.14095)|null|
+|**2026-03-15**|**Towards High-Fidelity Gaussian Splatting with Queried-Convolution Neural Networks**|Abhinav Kumar et.al.|[2512.12898](http://arxiv.org/abs/2512.12898)|null|
 |**2025-12-14**|**Quantum Implicit Neural Representations for 3D Scene Reconstruction and Novel View Synthesis**|Yeray Cordero et.al.|[2512.12683](http://arxiv.org/abs/2512.12683)|null|
 |**2025-12-11**|**Physically Aware 360 $^\circ$ View Generation from a Single Image using Disentangled Scene Embeddings**|Karthikeya KV et.al.|[2512.10293](http://arxiv.org/abs/2512.10293)|null|
 |**2025-12-10**|**Log NeRF: Comparing Spaces for Learning Radiance Fields**|Sihe Chen et.al.|[2512.09375](http://arxiv.org/abs/2512.09375)|null|
@@ -8835,19 +8840,59 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Matryoshka Gaussian Splatting**|Zhilin Guo et.al.|[2603.19234](http://arxiv.org/abs/2603.19234)|null|
+|**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|null|
+|**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|Yiren Lu et.al.|[2603.19137](http://arxiv.org/abs/2603.19137)|null|
+|**2026-03-19**|**GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting**|Ahmed Tawfik Aboukhadra et.al.|[2603.18912](http://arxiv.org/abs/2603.18912)|null|
+|**2026-03-19**|**An OASIS of Lyman- $α$ within a neutral intergalactic desert: reaffirmed line and blue continuum reveal efficient ionising agents at $z = 13$**|Joris Witstok et.al.|[2603.18775](http://arxiv.org/abs/2603.18775)|null|
+|**2026-03-19**|**From ex(p) to poly: Gaussian Splatting with Polynomial Kernels**|Joerg H. Mueller et.al.|[2603.18707](http://arxiv.org/abs/2603.18707)|null|
+|**2026-03-19**|**OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting**|Hongjia Zhai et.al.|[2603.18510](http://arxiv.org/abs/2603.18510)|null|
+|**2026-03-19**|**Inst4DGS: Instance-Decomposed 4D Gaussian Splatting with Multi-Video Label Permutation Learning**|Yonghan Lee et.al.|[2603.18402](http://arxiv.org/abs/2603.18402)|null|
+|**2026-03-18**|**Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting**|Guillem Casadesus Vila et.al.|[2603.18218](http://arxiv.org/abs/2603.18218)|null|
+|**2026-03-18**|**GoalVLM: VLM-driven Object Goal Navigation for Multi-Agent System**|MoniJesu James et.al.|[2603.18210](http://arxiv.org/abs/2603.18210)|null|
+|**2026-03-18**|**AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors**|Aymen Mir et.al.|[2603.17975](http://arxiv.org/abs/2603.17975)|null|
+|**2026-03-18**|**Efficient Quantum Algorithm for Solving Linear Distributed Delay Differential Equations**|Wataru Setoyama et.al.|[2603.17941](http://arxiv.org/abs/2603.17941)|null|
+|**2026-03-18**|**CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image**|Yizheng Song et.al.|[2603.17779](http://arxiv.org/abs/2603.17779)|null|
+|**2026-03-18**|**ReLaGS: Relational Language Gaussian Splatting**|Yaxu Xie et.al.|[2603.17605](http://arxiv.org/abs/2603.17605)|null|
+|**2026-03-18**|**UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images**|Guibiao Liao et.al.|[2603.17519](http://arxiv.org/abs/2603.17519)|null|
+|**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
+|**2026-03-18**|**Adaptive Anchor Policies for Efficient 4D Gaussian Streaming**|Ashim Dahal et.al.|[2603.17227](http://arxiv.org/abs/2603.17227)|null|
+|**2026-03-18**|**Physical Layer Security for FAS-Aided Short-Packet Systems: A Variable Block-Correlation Approach**|Jianchao Zheng et.al.|[2603.17224](http://arxiv.org/abs/2603.17224)|null|
+|**2026-03-17**|**SMAL-pets: SMAL Based Avatars of Pets from Single Image**|Piotr Borycki et.al.|[2603.17131](http://arxiv.org/abs/2603.17131)|null|
+|**2026-03-16**|**KGS-GCN: Enhancing Sparse Skeleton Sensing via Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Action Recognition**|Yuhan Chen et.al.|[2603.16943](http://arxiv.org/abs/2603.16943)|null|
+|**2026-03-17**|**M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM**|Kerui Ren et.al.|[2603.16844](http://arxiv.org/abs/2603.16844)|null|
+|**2026-03-17**|**Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty**|Mangyu Kong et.al.|[2603.16538](http://arxiv.org/abs/2603.16538)|null|
+|**2026-03-17**|**Directivity Enhancement of Movable Antenna Arrays with Mutual Coupling**|Wei Xu et.al.|[2603.16472](http://arxiv.org/abs/2603.16472)|null|
+|**2026-03-17**|**Leveling3D: Leveling Up 3D Reconstruction with Feed-Forward 3D Gaussian Splatting and Geometry-Aware Generation**|Yiming Huang et.al.|[2603.16211](http://arxiv.org/abs/2603.16211)|null|
+|**2026-03-17**|**NanoGS: Training-Free Gaussian Splat Simplification**|Butian Xiong et.al.|[2603.16103](http://arxiv.org/abs/2603.16103)|null|
+|**2026-03-16**|**Feed-forward Gaussian Registration for Head Avatar Creation and Editing**|Malte Prinzler et.al.|[2603.15811](http://arxiv.org/abs/2603.15811)|null|
+|**2026-03-16**|**IRIS: Intersection-aware Ray-based Implicit Editable Scenes**|Grzegorz Wilczyński et.al.|[2603.15368](http://arxiv.org/abs/2603.15368)|null|
+|**2026-03-16**|**NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation**|Jiahang Liu et.al.|[2603.15186](http://arxiv.org/abs/2603.15186)|null|
+|**2026-03-16**|**GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis**|Minjun Kang et.al.|[2603.14965](http://arxiv.org/abs/2603.14965)|null|
+|**2026-03-16**|**LiDAR-EVS: Enhance Extrapolated View Synthesis for 3D Gaussian Splatting with Pseudo-LiDAR Supervision**|Yiming Huang et.al.|[2603.14763](http://arxiv.org/abs/2603.14763)|null|
+|**2026-03-16**|**E2EGS: Event-to-Edge Gaussian Splatting for Pose-Free 3D Reconstruction**|Yunsoo Kim et.al.|[2603.14684](http://arxiv.org/abs/2603.14684)|null|
+|**2026-03-15**|**Texel Splatting: Perspective-Stable 3D Pixel Art**|Dylan Ebert et.al.|[2603.14587](http://arxiv.org/abs/2603.14587)|null|
+|**2026-03-15**|**Direct Object-Level Reconstruction via Probabilistic Gaussian Splatting**|Shuai Guo et.al.|[2603.14316](http://arxiv.org/abs/2603.14316)|null|
+|**2026-03-15**|**In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels**|Tomislav Medic et.al.|[2603.14309](http://arxiv.org/abs/2603.14309)|null|
+|**2026-03-15**|**4D Synchronized Fields: Motion-Language Gaussian Splatting for Temporal Scene Understanding**|Mohamed Rayan Barhdadi et.al.|[2603.14301](http://arxiv.org/abs/2603.14301)|null|
+|**2026-03-15**|**S2GS: Streaming Semantic Gaussian Splatting for Online Scene Understanding and Reconstruction**|Renhe Zhang et.al.|[2603.14232](http://arxiv.org/abs/2603.14232)|null|
+|**2026-03-14**|**PhyGaP: Physically-Grounded Gaussians with Polarization Cues**|Jiale Wu et.al.|[2603.14001](http://arxiv.org/abs/2603.14001)|null|
+|**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917](http://arxiv.org/abs/2603.13917)|null|
+|**2026-03-14**|**Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation**|Stefan Ainetter et.al.|[2603.13910](http://arxiv.org/abs/2603.13910)|null|
+|**2026-03-14**|**RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting**|Xuezhen Wang et.al.|[2603.13783](http://arxiv.org/abs/2603.13783)|null|
 |**2026-03-13**|**Spectral Defense Against Resource-Targeting Attack in 3D Gaussian Splatting**|Yang Chen et.al.|[2603.12796](http://arxiv.org/abs/2603.12796)|null|
 |**2026-03-13**|**LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction**|Ziyu Chen et.al.|[2603.12647](http://arxiv.org/abs/2603.12647)|null|
 |**2026-03-13**|**Load Balancing in Non-Terrestrial Networks Using Free Space Optical Inter-satellite Links**|Abid Afridi et.al.|[2603.12546](http://arxiv.org/abs/2603.12546)|null|
 |**2026-03-12**|**AstroSplat: Physics-Based Gaussian Splatting for Rendering and Reconstruction of Small Celestial Bodies**|Jennifer Nolan et.al.|[2603.11969](http://arxiv.org/abs/2603.11969)|null|
 |**2026-03-12**|**Mango-GS: Enhancing Spatio-Temporal Consistency in Dynamic Scenes Reconstruction using Multi-Frame Node-Guided 4D Gaussian Splatting**|Tingxuan Huang et.al.|[2603.11543](http://arxiv.org/abs/2603.11543)|null|
 |**2026-03-12**|**Mobile-GS: Real-time Gaussian Splatting for Mobile Devices**|Xiaobiao Du et.al.|[2603.11531](http://arxiv.org/abs/2603.11531)|null|
-|**2026-03-11**|**InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**|Dingqiang Ye et.al.|[2603.11298](http://arxiv.org/abs/2603.11298)|null|
+|**2026-03-17**|**InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**|Dingqiang Ye et.al.|[2603.11298](http://arxiv.org/abs/2603.11298)|null|
 |**2026-03-11**|**S2D: Sparse to Dense Lifting for 3D Reconstruction with Minimal Inputs**|Yuzhou Ji et.al.|[2603.10893](http://arxiv.org/abs/2603.10893)|null|
 |**2026-03-11**|**PolGS++: Physically-Guided Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction**|Yufei Han et.al.|[2603.10801](http://arxiv.org/abs/2603.10801)|null|
 |**2026-03-11**|**Splat2Real: Novel-view Scaling for Physical AI with 3D Gaussian Splatting**|Hansol Lim et.al.|[2603.10638](http://arxiv.org/abs/2603.10638)|null|
@@ -9229,12 +9274,14 @@
 |**2025-12-07**|**RDSplat: Robust Watermarking Against Diffusion Editing for 3D Gaussian Splatting**|Longjie Zhao et.al.|[2512.06774](http://arxiv.org/abs/2512.06774)|null|
 |**2025-12-07**|**Optimal Analysis for Bandit Learning in Matching Markets with Serial Dictatorship**|Zilong Wang et.al.|[2512.06758](http://arxiv.org/abs/2512.06758)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## talkingface
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**ECHO: Towards Emotionally Appropriate and Contextually Aware Interactive Head Generation**|Xiangyu Kong et.al.|[2603.17427](http://arxiv.org/abs/2603.17427)|null|
+|**2026-03-15**|**DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression**|Bingzhou Li et.al.|[2603.15685](http://arxiv.org/abs/2603.15685)|null|
 |**2026-03-11**|**Semantic Satellite Communications for Synchronized Audiovisual Reconstruction**|Fangyu Liu et.al.|[2603.10791](http://arxiv.org/abs/2603.10791)|null|
 |**2026-03-06**|**Text-Driven Emotionally Continuous Talking Face Generation**|Hao Yang et.al.|[2603.06071](http://arxiv.org/abs/2603.06071)|null|
 |**2026-03-06**|**TempoSyncDiff: Distilled Temporally-Consistent Diffusion for Low-Latency Audio-Driven Talking Head Generation**|Soumya Mazumdar et.al.|[2603.06057](http://arxiv.org/abs/2603.06057)|null|
@@ -9270,7 +9317,7 @@
 |**2026-01-29**|**REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation**|Haotian Wang et.al.|[2512.11229](http://arxiv.org/abs/2512.11229)|null|
 |**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
 |**2025-12-10**|**UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking**|Xuangeng Chu et.al.|[2512.09327](http://arxiv.org/abs/2512.09327)|null|
-|**2025-12-18**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|null|
+|**2026-03-16**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|null|
 |**2025-12-02**|**YingVideo-MV: Music-Driven Multi-Stage Video Generation**|Jiahui Chen et.al.|[2512.02492](http://arxiv.org/abs/2512.02492)|null|
 |**2025-11-28**|**AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement**|Zhizhou Zhong et.al.|[2511.23475](http://arxiv.org/abs/2511.23475)|null|
 |**2025-11-27**|**AI killed the video star. Audio-driven diffusion model for expressive talking head generation**|Baptiste Chopin et.al.|[2511.22488](http://arxiv.org/abs/2511.22488)|null|
@@ -9357,7 +9404,7 @@
 |**2025-05-01**|**KeySync: A Robust Approach for Leakage-free Lip Synchronization in High Resolution**|Antoni Bigata et.al.|[2505.00497](http://arxiv.org/abs/2505.00497)|null|
 |**2025-04-26**|**Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**|Yifan Xie et.al.|[2504.18810](http://arxiv.org/abs/2504.18810)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

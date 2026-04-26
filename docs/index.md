@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6962,6 +6962,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
+|**2026-04-21**|**OT-UVGS: Revisiting UV Mapping for Gaussian Splatting as a Capacity Allocation Problem**|Byunghyun Kim et.al.|[2604.19127](http://arxiv.org/abs/2604.19127)|null|
+|**2026-04-20**|**A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting**|Mikolaj Zielinski et.al.|[2604.18205](http://arxiv.org/abs/2604.18205)|null|
 |**2026-04-20**|**MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene**|Wenjie Mu et.al.|[2604.17965](http://arxiv.org/abs/2604.17965)|null|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831](http://arxiv.org/abs/2604.17831)|null|
 |**2026-04-17**|**Incoherent Deformation, Not Capacity: Diagnosing and Mitigating Overfitting in Dynamic Gaussian Splatting**|Ahmad Droby et.al.|[2604.16747](http://arxiv.org/abs/2604.16747)|null|
@@ -8852,8 +8855,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**High-Fidelity 3D Gaussian Human Reconstruction via Region-Aware Initialization and Geometric Priors**|Yang Liu et.al.|[2604.21714](http://arxiv.org/abs/2604.21714)|null|
+|**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|Qizhuo Xie et.al.|[2604.21649](http://arxiv.org/abs/2604.21649)|null|
+|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
+|**2026-04-23**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|null|
+|**2026-04-23**|**WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images**|Yuki Fujimura et.al.|[2604.21182](http://arxiv.org/abs/2604.21182)|null|
+|**2026-04-22**|**GSCompleter: A Distillation-Free Plugin for Metric-Aware 3D Gaussian Splatting Completion in Seconds**|Ao Gao et.al.|[2604.20155](http://arxiv.org/abs/2604.20155)|null|
+|**2026-04-21**|**Gaussians on a Diet: High-Quality Memory-Bounded 3D Gaussian Splatting Training**|Yangming Zhang et.al.|[2604.20046](http://arxiv.org/abs/2604.20046)|null|
+|**2026-04-21**|**FluSplat: Sparse-View 3D Editing without Test-Time Optimization**|Haitao Huang et.al.|[2604.20038](http://arxiv.org/abs/2604.20038)|null|
+|**2026-04-07**|**SkillGraph: Graph Foundation Priors for LLM Agent Tool Sequence Recommendation**|Hao Liu et.al.|[2604.19793](http://arxiv.org/abs/2604.19793)|null|
+|**2026-04-21**|**TransSplat: Unbalanced Semantic Transport for Language-Driven 3DGS Editing**|Yanhui Chen et.al.|[2604.19571](http://arxiv.org/abs/2604.19571)|null|
+|**2026-04-21**|**An Object-Centered Data Acquisition Method for 3D Gaussian Splatting using Mobile Phones**|Yuezhe Zhang et.al.|[2604.19216](http://arxiv.org/abs/2604.19216)|null|
+|**2026-04-21**|**SketchFaceGS: Real-Time Sketch-Driven Face Editing and Generation with Gaussian Splatting**|Bo Li et.al.|[2604.19202](http://arxiv.org/abs/2604.19202)|null|
+|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133](http://arxiv.org/abs/2604.19133)|null|
+|**2026-04-21**|**OT-UVGS: Revisiting UV Mapping for Gaussian Splatting as a Capacity Allocation Problem**|Byunghyun Kim et.al.|[2604.19127](http://arxiv.org/abs/2604.19127)|null|
+|**2026-04-21**|**AdaGScale: Viewpoint-Adaptive Gaussian Scaling in 3D Gaussian Splatting to Reduce Gaussian-Tile Pairs**|Joongho Jo et.al.|[2604.18980](http://arxiv.org/abs/2604.18980)|null|
+|**2026-04-20**|**A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting**|Mikolaj Zielinski et.al.|[2604.18205](http://arxiv.org/abs/2604.18205)|null|
 |**2026-04-20**|**GS-STVSR: Ultra-Efficient Continuous Spatio-Temporal Video Super-Resolution via 2D Gaussian Splatting**|Mingyu Shi et.al.|[2604.18047](http://arxiv.org/abs/2604.18047)|null|
-|**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
+|**2026-04-23**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
 |**2026-04-20**|**Voronoi-guided Bilateral 2D Gaussian Splatting for Arbitrary-Scale Hyperspectral Image Super-Resolution**|Jie Zhang et.al.|[2604.17727](http://arxiv.org/abs/2604.17727)|null|
 |**2026-04-20**|**GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion**|Jiayi Tian et.al.|[2604.17721](http://arxiv.org/abs/2604.17721)|null|
 |**2026-04-18**|**Instant Colorization of Gaussian Splats**|Daniel Lieber et.al.|[2604.17155](http://arxiv.org/abs/2604.17155)|null|
@@ -8871,13 +8890,13 @@ layout: default
 |**2026-04-16**|**NG-GS: NeRF-Guided 3D Gaussian Splatting Segmentation**|Yi He et.al.|[2604.14706](http://arxiv.org/abs/2604.14706)|null|
 |**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)|null|
 |**2026-04-15**|**ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction**|Jie Liang et.al.|[2604.13746](http://arxiv.org/abs/2604.13746)|null|
-|**2026-04-18**|**Dehaze-then-Splat: Generative Dehazing with Physics-Informed 3D Gaussian Splatting for Smoke-Free Novel View Synthesis**|Boss Chen et.al.|[2604.13589](http://arxiv.org/abs/2604.13589)|null|
+|**2026-04-23**|**Dehaze-then-Splat: Generative Dehazing with Physics-Informed 3D Gaussian Splatting for Smoke-Free Novel View Synthesis**|Boss Chen et.al.|[2604.13589](http://arxiv.org/abs/2604.13589)|null|
 |**2026-04-15**|**RadarSplat-RIO: Indoor Radar-Inertial Odometry with Gaussian Splatting-Based Radar Bundle Adjustment**|Pou-Chun Kung et.al.|[2604.13492](http://arxiv.org/abs/2604.13492)|null|
 |**2026-04-15**|**DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis**|Cheng-You Lu et.al.|[2604.13416](http://arxiv.org/abs/2604.13416)|null|
 |**2026-04-14**|**MSGS: Multispectral 3D Gaussian Splatting**|Iris Zheng et.al.|[2604.13340](http://arxiv.org/abs/2604.13340)|null|
 |**2026-04-14**|**SSD-GS: Scattering and Shadow Decomposition for Relightable 3D Gaussian Splatting**|Iris Zheng et.al.|[2604.13333](http://arxiv.org/abs/2604.13333)|null|
 |**2026-04-14**|**PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction**|Prajas Wadekar et.al.|[2604.13153](http://arxiv.org/abs/2604.13153)|null|
-|**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942](http://arxiv.org/abs/2604.12942)|null|
+|**2026-04-21**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942](http://arxiv.org/abs/2604.12942)|null|
 |**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837](http://arxiv.org/abs/2604.12837)|null|
 |**2026-04-14**|**Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting**|Ziyuan Xia et.al.|[2604.12626](http://arxiv.org/abs/2604.12626)|null|
 |**2026-04-14**|**ELoG-GS: Dual-Branch Gaussian Splatting with Luminance-Guided Enhancement for Extreme Low-light 3D Reconstruction**|Yuhao Liu et.al.|[2604.12592](http://arxiv.org/abs/2604.12592)|null|
@@ -8891,7 +8910,7 @@ layout: default
 |**2026-04-13**|**GS4City: Hierarchical Semantic Gaussian Splatting via City-Model Priors**|Qilin Zhang et.al.|[2604.11401](http://arxiv.org/abs/2604.11401)|null|
 |**2026-04-13**|**Naka-GS: A Bionics-inspired Dual-Branch Naka Correction and Progressive Point Pruning for Low-Light 3DGS**|Runyu Zhu et.al.|[2604.11142](http://arxiv.org/abs/2604.11142)|null|
 |**2026-04-13**|**ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation**|Arjun Bhardwaj et.al.|[2604.11138](http://arxiv.org/abs/2604.11138)|null|
-|**2026-04-13**|**Efficient Transceiver Design for Aerial Image Transmission and Large-scale Scene Reconstruction**|Zeyi Ren et.al.|[2604.11098](http://arxiv.org/abs/2604.11098)|null|
+|**2026-04-22**|**Efficient Transceiver Design for Aerial Image Transmission and Large-scale Scene Reconstruction**|Zeyi Ren et.al.|[2604.11098](http://arxiv.org/abs/2604.11098)|null|
 |**2026-04-13**|**LumiMotion: Improving Gaussian Relighting with Scene Dynamics**|Joanna Kaleta et.al.|[2604.10994](http://arxiv.org/abs/2604.10994)|null|
 |**2026-04-13**|**Ψ-Map: Panoptic Surface Integrated Mapping Enables Real2Sim Transfer**|Xuan Yu et.al.|[2604.10982](http://arxiv.org/abs/2604.10982)|null|
 |**2026-04-13**|**Fast-SegSim: Real-Time Open-Vocabulary Segmentation for Robotics in Simulation**|Xuan Yu et.al.|[2604.10951](http://arxiv.org/abs/2604.10951)|null|
@@ -8927,13 +8946,13 @@ layout: default
 |**2026-04-07**|**Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction**|Yangyi Xiao et.al.|[2604.05908](http://arxiv.org/abs/2604.05908)|null|
 |**2026-04-07**|**GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance**|Weiqi Zhang et.al.|[2604.05721](http://arxiv.org/abs/2604.05721)|null|
 |**2026-04-07**|**In Depth We Trust: Reliable Monocular Depth Supervision for Gaussian Splatting**|Wenhui Xiao et.al.|[2604.05715](http://arxiv.org/abs/2604.05715)|null|
-|**2026-04-07**|**3D Smoke Scene Reconstruction Guided by Vision Priors from Multimodal Large Language Models**|Xinye Zheng et.al.|[2604.05687](http://arxiv.org/abs/2604.05687)|null|
+|**2026-04-22**|**3D Smoke Scene Reconstruction Guided by Vision Priors from Multimodal Large Language Models**|Xinye Zheng et.al.|[2604.05687](http://arxiv.org/abs/2604.05687)|null|
 |**2026-04-07**|**PanopticQuery: Unified Query-Time Reasoning for 4D Scenes**|Ruilin Tang et.al.|[2604.05638](http://arxiv.org/abs/2604.05638)|null|
 |**2026-04-07**|**PQC-Enhanced QKD Networks: A Layered Approach**|Paul Spooren et.al.|[2604.05599](http://arxiv.org/abs/2604.05599)|null|
 |**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402](http://arxiv.org/abs/2604.05402)|null|
 |**2026-04-07**|**3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models**|Jae Joong Lee et.al.|[2604.05366](http://arxiv.org/abs/2604.05366)|null|
 |**2026-04-07**|**Indoor Asset Detection in Large Scale 360° Drone-Captured Imagery via 3D Gaussian Splatting**|Monica Tang et.al.|[2604.05316](http://arxiv.org/abs/2604.05316)|null|
-|**2026-04-07**|**SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration**|Xueming Fu et.al.|[2604.05301](http://arxiv.org/abs/2604.05301)|null|
+|**2026-04-21**|**SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration**|Xueming Fu et.al.|[2604.05301](http://arxiv.org/abs/2604.05301)|null|
 |**2026-04-06**|**OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models**|Ali Aliev et.al.|[2604.05183](http://arxiv.org/abs/2604.05183)|null|
 |**2026-04-06**|**GaussFly: Contrastive Reinforcement Learning for Visuomotor Policies in 3D Gaussian Fields**|Yuhang Zhang et.al.|[2604.05062](http://arxiv.org/abs/2604.05062)|null|
 |**2026-04-06**|**AvatarPointillist: AutoRegressive 4D Gaussian Avatarization**|Hongyu Liu et.al.|[2604.04787](http://arxiv.org/abs/2604.04787)|null|
